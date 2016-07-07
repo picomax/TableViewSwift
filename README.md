@@ -26,7 +26,7 @@ ViewController 외부 Delegate, DataSource 관련 코드 작성한 방식
 
 ## 라이선스
 
-Copyright (c) 2015, [Jeong-Hoon Mo](https://github.com/picomax).
+Copyright (c) 2016, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
 
 [http://picomax.net/73332](http://picomax.net/73332)
