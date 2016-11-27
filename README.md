@@ -15,7 +15,7 @@ ViewController 외부 Delegate, DataSource 관련 코드 작성한 방식
 
 ## 스크린샷
 
-![](http://www.picomax.net/xe/files/attach/images/207/332/073/5f9ac035fcd9c848e7dcaf7c6653a1c7.png)
+![](https://raw.githubusercontent.com/picomax/TableViewSwift/master/Screenshot.png)
 
 
 
